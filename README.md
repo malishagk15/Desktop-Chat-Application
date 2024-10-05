@@ -1,4 +1,3 @@
-```markdown
 # Desktop Chat Application
 
 This project is a desktop chat application developed in C# using the .NET Framework. It integrates Firebase for real-time data synchronization and user authentication. The application allows users to securely log in, chat with others in real-time, and manage their profile information.
